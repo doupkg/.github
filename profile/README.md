@@ -1,92 +1,70 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/83744346-0bb5-470d-9b80-191b93800096" alt="Supercharge mascot" width="260" />
-  <h1>Supercharge NextGen</h1>
-  <p>We craft high-trust digital experiences for teams that move at orbital velocity.</p>
-  <p>
-    <img src="https://img.shields.io/badge/launch%20mode-ENGAGED-%23fd267d?style=for-the-badge" alt="Launch mode badge" />
-    <img src="https://img.shields.io/badge/build%20style-FUTURE%20FORWARD-%235b21b6?style=for-the-badge" alt="Build style badge" />
-    <img src="https://img.shields.io/badge/open%20source-COSMIC%20ALLY-%230ea5e9?style=for-the-badge" alt="Open source badge" />
-  </p>
+  <img src="https://github.com/user-attachments/assets/83744346-0bb5-470d-9b80-191b93800096" alt="Hyper caffeinated mascot" width="240" />
+  <h1>Supercharge NextGen ⚡️</h1>
+  <p>Primeagen voice: caffeine -> code -> chaos -> repeat.</p>
+  <p>Ship fast · Refactor faster · Keep the org forever young</p>
 </div>
 
 ---
 
-## 🔭 Our North Star
+## TL;DW (too long; didn't wait)
 
-> ✨ We design systems that feel like magic, behave like science, and scale with intent.
+We're the crew jamming commits like it's a speedrun marathon. Vim full screen, neon lights on, yak shaving banned. The goal: launch crispy product vibes before the coffee gets cold and make this org profile feel like a backstage pass, not a museum plaque.
 
-- Elevate organizations with product ecosystems that are resilient, inclusive, and joyful to use.
-- Prototype at light-speed without compromising on engineering rigor or craft.
-- Champion a culture where learning loops, experimentation, and bold vision fuel every launch.
+## ⚔️ Non-negotiables
 
-## 🛰️ Focus Quests
+- Default stance: ship now, optimize by lunch, meme by happy hour.
+- DX so smooth you could nap on it. (You won't. ThePrimeagen would roast you.)
+- Community-first even when we're sleep-deprived and yelling about TypeScript types.
+- Every release should feel like finding a legendary drop in an S-tier dungeon.
 
-| Quest | Why it matters | Current pulse |
+## 🔥 What X.com is yelling about (probably)
+
+> We check trends between espresso refills. If the feed flipped since this was written, blame Elon, not us.
+
+- **#ShipItOrQuitIt** — because half the timeline just merged something spicy.
+- **#VimGang** — obviously trending; modal editors never sleep.
+- **#TypeSafetyDrama** — someone discovered `any` in production again.
+- **#CoffeeFirstCommits** — health tip: hydrate, then caffeinate, then PR blast.
+- **#AIandChill** — models generating memes faster than we can review them.
+
+## 🧠 Stack we speedrun
+
+| Layer | Favorite toy | Why it slaps |
 | --- | --- | --- |
-| **OrbitX** | Reinventing the org profile so every visitor steps into our universe instantly. | 🟢 Shipping iterations weekly |
-| **NovaMesh** | A design system that merges accessibility, storytelling, and modular UX atoms. | 🟠 In collaborative design review |
-| **SignalForge** | Observability tooling that turns product telemetry into narrative insights. | 🟣 R&amp;D spike underway |
+| Frontend | Next.js + Tailwind | Fast, flashy, keeps the vibes reactive. |
+| Mobile | React Native | One codebase, infinite bug hunts, zero boredom. |
+| Backend | tRPC + Postgres | Type safe or bust. |
+| Infra | Fly.io + Terraform | Deploy like you mean it. |
+| Data | ClickHouse + DuckDB | Analytics with punchy latency. |
+| AI | OpenAI + resident gremlins | Pair-programming with a silicon co-pilot. |
 
-## 🧪 Experimental Lab
-
-- [x] Quantum backlog prioritization sessions (rapid scenario mapping with the entire orbit).
-- [x] Narrative prototyping: release notes that read like missions, not chores.
-- [ ] Holodeck onboarding — a fully immersive sandbox of our best launches.
-
-## 🛠️ Experience Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Design-Figma-%234B32C3?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Web-Next.js-%23000000?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Mobile-React%20Native-%2302569B?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Native" />
-  <img src="https://img.shields.io/badge/Cloud-Fly.io-%235f2df2?style=for-the-badge&amp;logo=flydotio&amp;logoColor=white" alt="Fly.io" />
-  <img src="https://img.shields.io/badge/Data-ClickHouse-%23FF4A17?style=for-the-badge&amp;logo=clickhouse&amp;logoColor=white" alt="ClickHouse" />
-  <img src="https://img.shields.io/badge/AI-OpenAI-%23412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="OpenAI" />
-</p>
-
-## 🌈 Culture Pillars
-
-| Pillar | We practice it by |
-| --- | --- |
-| **Radical Clarity** | Story-driven briefs, transparent roadmaps, and open metrics dashboards. |
-| **Courageous Craft** | Shipping prototypes in public, inviting critique, and polishing relentlessly. |
-| **Playful Seriousness** | Celebrating wins with memes, retros with art, and rituals that keep curiosity alive. |
-
-## 🗺️ Roadmap Constellation
+## 🚀 Currently shipping
 
 ```
-┌────────────┬──────────────────────────────────────────────┐
-│ 2024 Q4    │ OrbitX hero launch · NovaMesh component beta │
-│ 2025 Q1    │ SignalForge observability studio             │
-│ 2025 Q2    │ Holodeck onboarding gauntlet                 │
-└────────────┴──────────────────────────────────────────────┘
+S Tier 🔥   - OrbitX neon redesign (ship party every Friday)
+A Tier ⚡   - NovaMesh components (designers yelling "just one more variant")
+B Tier 🛠️  - SignalForge telemetry lore (turn logs into shareable plot twists)
+Undead 🧟  - Holodeck onboarding (if QA survives, it launches)
 ```
 
-## 🌍 Impact Snapshots
+## 🧪 Experiments cooking right now
 
-- 120k+ annual visitors guided to partner ecosystems through profile experiences.
-- 15+ open source contributions adopted by community-led digital transformation teams.
-- 78% faster onboarding for new collaborators after the last profile refresh.
+- Building a trends bot that yells Primeagen quotes when the repo gets dusty.
+- Crafting release notes like mixtapes. Track 01: "Refactor with Vengeance".
+- Designing onboarding quests that feel like open-world tutorials, not HR paperwork.
 
-## 🌌 Rituals (click to reveal)
+## 🛡️ Culture cheat codes
 
-<details>
-  <summary>🌙 Nightly Orbit Sync</summary>
-  Async-first updates, visual storytelling, and surprise demos keep momentum rolling across time zones.
-</details>
-<details>
-  <summary>🎉 Friday Launch Lounge</summary>
-  We ship something delightful every Friday — even if it is a tiny UX sparkle or a fresh storytelling experiment.
-</details>
-<details>
-  <summary>🧭 Mission Debriefs</summary>
-  Structured reflection that turns learnings into playbooks so the next launch goes further, faster.
-</details>
+- **Latency beats legacy.** Momentum is the cardio that keeps the org young.
+- **Critique is a love language.** Roast the code, dap the humans.
+- **Celebrate loudly.** GIFs, horns, custom terminal themes — everything counts.
+- **Stay curious.** Shipping is fun, but so is poking at weird tech at 2 a.m.
 
-## 🤝 Connect With Us
+## 📬 Pull up and hang
 
-- Drop us a line at **hello@supercharge.space** — we answer with prototypes, not just paragraphs.
-- Follow our build logs on [X/Twitter](https://twitter.com/) and [LinkedIn](https://www.linkedin.com/).
-- Interested in orbiting with us? Start with our [playbook](https://supercharge.space/playbook) and share your story.
+- Slide into **hello@supercharge.space** with your wildest idea. Expect a Loom demo back.
+- Stalk our chaos on [X](https://twitter.com/) and pretend it's part of your OKRs.
+- Want to build with us? Ship a mini proof-of-concept, drop a link, and let's go.
 
-> "The future isn't predicted — it's prototyped." Let’s build it together.
+> Final boss energy: "Future isn't promised — it's compiled." Now get back to your terminal.
