@@ -1,70 +1,88 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/83744346-0bb5-470d-9b80-191b93800096" alt="Hyper caffeinated mascot" width="240" />
-  <h1>Supercharge NextGen ⚡️</h1>
-  <p>Primeagen voice: caffeine -> code -> chaos -> repeat.</p>
-  <p>Ship fast · Refactor faster · Keep the org forever young</p>
+
+<pre>
+███    ██ ███████  ██████   █████  ███    ██     ██       █████  ██████  ██████  ███████ 
+████   ██ ██      ██    ██ ██   ██ ████   ██     ██      ██   ██ ██   ██ ██   ██ ██      
+██ ██  ██ █████   ██    ██ ███████ ██ ██  ██     ██      ███████ ██████  ██████  █████   
+██  ██ ██ ██      ██    ██ ██   ██ ██  ██ ██     ██      ██   ██ ██   ██ ██      ██      
+██   ████ ███████  ██████  ██   ██ ██   ████     ███████ ██   ██ ██   ██ ██      ███████ 
+</pre>
+
+<h1>SUPERCHARGE NEXTGEN ⚡️</h1>
+<p><strong>Cyberpunk playground for high-performance software that slaps harder than a 90s mixtape.</strong></p>
+<p>Primeagen voice: more caffeine, fewer excuses — yeet the code and let the stars rain.</p>
+
+<p>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Chaos_Level-Over_9000-ff00ff?style=for-the-badge&logo=clockify&logoColor=000" alt="Chaos badge" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Fuel-Caffeinated_AF-00f0ff?style=for-the-badge&logo=coffeescript&logoColor=000" alt="Fuel badge" /></a>
+  <a href="https://github.com/"><img src="https://img.shields.io/badge/Commits-On_Fire-f9ff00?style=for-the-badge&logo=github&logoColor=000" alt="Commits badge" /></a>
+</p>
+
 </div>
 
 ---
 
-## TL;DW (too long; didn't wait)
+## 🔥 Mission Manifesto
 
-We're the crew jamming commits like it's a speedrun marathon. Vim full screen, neon lights on, yak shaving banned. The goal: launch crispy product vibes before the coffee gets cold and make this org profile feel like a backstage pass, not a museum plaque.
+We exist to blast out dope, high-octane software that feels like discovering a hidden arcade in Neo-Tokyo. <strong>Performance over politeness. Fun over fluff.</strong> If it doesn’t melt benchmarks or spark joy, we refactor until it does.
 
-## ⚔️ Non-negotiables
+- **We ship code faster than Usain Bolt runs the 100-meter.** Catch up or get out of the lane. 🏃‍♂️💨
+- Every deploy should slap like a bass drop at 3 a.m. in Night City.
+- DX so smooth it makes butter jealous, with tooling tuned tighter than a speedrunner’s splits.
 
-- Default stance: ship now, optimize by lunch, meme by happy hour.
-- DX so smooth you could nap on it. (You won't. ThePrimeagen would roast you.)
-- Community-first even when we're sleep-deprived and yelling about TypeScript types.
-- Every release should feel like finding a legendary drop in an S-tier dungeon.
+## ⚔️ Why we’re legendary
 
-## 🔥 What X.com is yelling about (probably)
+| Mode | Description |
+| --- | --- |
+| **⚡️ Velocity Freaks** | We sprint, we iterate, we meme mid-merge. Downtime is for linting and lattes. |
+| **🚀 Performance Junkies** | If latency isn’t measured in microseconds, we’re not done. |
+| **🎛️ Custom Everything** | From terminal themes to deployment pipelines, we tweak till it’s neon-perfect. |
+| **🧠 Cult of Craft** | Code reviews = roasts with love. We sharpen edges, not egos. |
 
-> We check trends between espresso refills. If the feed flipped since this was written, blame Elon, not us.
-
-- **#ShipItOrQuitIt** — because half the timeline just merged something spicy.
-- **#VimGang** — obviously trending; modal editors never sleep.
-- **#TypeSafetyDrama** — someone discovered `any` in production again.
-- **#CoffeeFirstCommits** — health tip: hydrate, then caffeinate, then PR blast.
-- **#AIandChill** — models generating memes faster than we can review them.
-
-## 🧠 Stack we speedrun
+## 💾 Rigs we ride (aka Tech Stack Arcade)
 
 | Layer | Favorite toy | Why it slaps |
 | --- | --- | --- |
-| Frontend | Next.js + Tailwind | Fast, flashy, keeps the vibes reactive. |
-| Mobile | React Native | One codebase, infinite bug hunts, zero boredom. |
-| Backend | tRPC + Postgres | Type safe or bust. |
-| Infra | Fly.io + Terraform | Deploy like you mean it. |
-| Data | ClickHouse + DuckDB | Analytics with punchy latency. |
-| AI | OpenAI + resident gremlins | Pair-programming with a silicon co-pilot. |
+| Frontend | Next.js + Tailwind | Reactive neon billboards, zero lag, max drip. |
+| Mobile | React Native | One codebase to rule all devices — chaos included. |
+| Backend | tRPC + Rust-flavored Node | Type-safe trash talk with blistering speed. |
+| Infra | Fly.io + Terraform | Deploy from zero to warp speed in one command. |
+| Data | ClickHouse + DuckDB | Analytics with teeth — bite before it bytes you. |
+| AI | OpenAI + house-built gremlins | Pair programming with caffeinated silicon sidekicks. |
 
-## 🚀 Currently shipping
+## 🛰️ Projects lighting up the skyline
 
 ```
-S Tier 🔥   - OrbitX neon redesign (ship party every Friday)
-A Tier ⚡   - NovaMesh components (designers yelling "just one more variant")
-B Tier 🛠️  - SignalForge telemetry lore (turn logs into shareable plot twists)
-Undead 🧟  - Holodeck onboarding (if QA survives, it launches)
+S Tier 🔥   - Hyperlane Runner: realtime dashboards that pulse like nightclub lasers.
+A Tier ⚡   - NovaMesh UI: component library dripping with chromed-out atoms.
+B Tier 🛠️  - SignalForge: telemetry pipeline converting logs into lore drops.
+Shadow Ops 👁️ - EchoFlux: AI copilots whispering commit poetry at 2 a.m.
 ```
 
-## 🧪 Experiments cooking right now
+## 🧪 Experiments from the lab basement
 
-- Building a trends bot that yells Primeagen quotes when the repo gets dusty.
-- Crafting release notes like mixtapes. Track 01: "Refactor with Vengeance".
-- Designing onboarding quests that feel like open-world tutorials, not HR paperwork.
+- Synthwave linting bots that scream “SHIP IT” when CI turns green.
+- Release notes packaged like cassette mixtapes – Side A: “Refactor & Fury.”
+- Onboarding quests with NPC mentors and snackable boss fights.
 
-## 🛡️ Culture cheat codes
+## 🎧 Primeagen Energy Playlist
 
-- **Latency beats legacy.** Momentum is the cardio that keeps the org young.
-- **Critique is a love language.** Roast the code, dap the humans.
-- **Celebrate loudly.** GIFs, horns, custom terminal themes — everything counts.
-- **Stay curious.** Shipping is fun, but so is poking at weird tech at 2 a.m.
+- ☕️ <strong>Double-shot deploys:</strong> Wake, brew, push to prod, meme.
+- 🛠️ <strong>Yak shaving forbidden:</strong> If it’s not on fire, it’s fuel.
+- 🧨 <strong>Feature flags + adrenaline:</strong> Break things forward, never backward.
+- 📟 <strong>Logs are lore:</strong> Every stack trace tells a hero’s journey.
 
-## 📬 Pull up and hang
+## 🤝 Join the neon raid
 
-- Slide into **hello@supercharge.space** with your wildest idea. Expect a Loom demo back.
-- Stalk our chaos on [X](https://twitter.com/) and pretend it's part of your OKRs.
-- Want to build with us? Ship a mini proof-of-concept, drop a link, and let's go.
+<div align="center">
 
-> Final boss energy: "Future isn't promised — it's compiled." Now get back to your terminal.
+**Ready to vibe with us?**
+
+🎯 <strong>Star the repo.</strong> Let the GitHub confetti rain.  
+🧪 <strong>Fork it, hack it, PR it.</strong> Bring the chaos, we’ll bring the reviews.  
+💌 <strong>Pitch your wildest idea:</strong> hello@supercharge.space — expect a Loom reply before your latte cools.  
+📡 <strong>Ride the frequency:</strong> follow the madness on <a href="https://twitter.com/">X</a> and pretend it’s an OKR.
+
+</div>
+
+> Final boss voice: <strong>“The future isn’t promised — it’s compiled. Now alt-tab back to your editor and make some noise.”</strong>
